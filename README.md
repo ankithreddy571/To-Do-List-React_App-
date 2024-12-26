@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # To-Do List Application
 
 A simple and interactive To-Do List application built with React. This app allows users to manage their tasks efficiently by adding, deleting, and rearranging tasks.
@@ -43,3 +44,7 @@ Follow these steps to set up and run the application locally:
 # Contributing:
 # - Feel free to fork this repository and make improvements. Contributions are welcome!
 
+=======
+# To-Do-List-React_App-
+A simple and interactive To-Do List application built with React.
+>>>>>>> 47738efdc90732560cf089cdac4e8ffbd7a50aaf
